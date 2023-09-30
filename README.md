@@ -1,4 +1,4 @@
-## Re-creating spotify app using Nextjs 13 and Supabase
+## Melody App
 
 #### Technologies used
 
